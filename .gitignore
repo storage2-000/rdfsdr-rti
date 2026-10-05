@@ -1,0 +1,16 @@
+# Runtime configuration and data
+**/_share/
+**/settings.json*
+**/mydata.csv
+**/*.log
+
+# Generated and local dependencies
+**/__pycache__/
+**/*.py[cod]
+**/*.nbc
+**/*.nbi
+**/node_modules/
+**/*.o
+**/*.a
+**/*.out
+rdfsdr_doa/_ui/_web_interface_backup/
